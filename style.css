@@ -3,5 +3,9 @@ div{
     margin: 15px;
     padding: 15px;
     text-align: center;
-    border: 5px;
+    
+}
+h2{
+    background-color: rgb(148, 122, 173);
+    font-size: 25px;
 }
